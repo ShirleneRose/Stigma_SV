@@ -8,7 +8,7 @@ This research examines how stigma related to sexual violence is expressed in pos
 
 Annotation proceeded in three stages, each building on the output of the previous one.
 
-### level 1: Applicable vs Not Applicable
+### Level 1: Applicable vs Not Applicable
 
 Posts were screened for topical relevance and labeled as either:
 - **Applicable** – the post directly discussed sexual violence
