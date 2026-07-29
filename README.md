@@ -59,7 +59,7 @@ Contains posts that passed relevance filtering, labeled as Stigma or No Stigma.
 | Column | Description |
 |---|---|
 | `post_id` | Unique identifier for the post |
-| `l1_label` | Stigma label (Stigma / No Stigma) |
+| `l2_label` | Stigma label (Stigma / No Stigma) |
 | `subreddit` | Subreddit the post was collected from |
 | `timestamp` | Time the post was created |
 
@@ -83,8 +83,4 @@ Contains fine-grained stigma labels along with associated comment-level annotati
 
 ## Citation
 
-If you use this dataset, please cite our paper:
-
-```
-[Add full citation here]
-```
+If you use this dataset, please cite our paper.
