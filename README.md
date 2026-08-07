@@ -14,6 +14,8 @@ Posts were screened for topical relevance and labeled as either:
 - **Applicable** – the post directly discussed sexual violence
 - **Not Applicable** – the post did not
 
+> **Note:** In the paper, this label is referred to as "not relevant." "Not Applicable" in the dataset and "not relevant" in the paper refer to the same label.
+
 Only posts labeled Applicable were carried forward to the next stage.
 
 ### Level 2: Stigma vs. No Stigma
