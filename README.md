@@ -84,7 +84,7 @@ Contains fine-grained stigma labels along with associated comment-level annotati
 - `Data` — The two dataset files described below (SCOPE-Dataset.csv for posts, SCOPE-Comments-Dataset.csv for comments).
 - `Results` — Generated figures from the analyses, including stigma/support distributions and emotion comparisons.
 
-## Repository Contents
+## Data Folder Contents
 
 - `SCOPE-Dataset.csv` — File containing all annotation levels (Level 1, Level 2, and Level 3 data) for posts.
 - `SCOPE-Comments-Dataset.csv` - File containing all annotations for comments of level 3 posts.
