@@ -79,10 +79,15 @@ Contains fine-grained stigma labels along with associated comment-level annotati
 | `support_tags` | Support type(s): Information, Emotional, Esteem, Tangible, and/or Group |
 | `stigma_tags` | Fine-grained stigma type(s): Experienced, Internalized, Anticipated, and/or Structural |
 
+## Repository Structure
+- `Code` — Notebooks for the three-level classification pipeline (Gemini), inter-annotator agreement calculations (posts and comments, across three annotation rounds), and analyses (LIWC, LLooM support experiments, NRC emotion experiments).
+- `Data` — The two dataset files described below (SCOPE-Dataset.csv for posts, SCOPE-Comments-Dataset.csv for comments).
+- `Results` — Generated figures from the analyses, including stigma/support distributions and emotion comparisons.
+
 ## Repository Contents
 
-- `SCOPE-Dataset.csv` — File containing all annotation levels (Level 1, Level 2, and Level 3 data) for posts
-- `SCOPE-Comments-Dataset.csv` - File containing all annotations for comments of level 3 posts
+- `SCOPE-Dataset.csv` — File containing all annotation levels (Level 1, Level 2, and Level 3 data) for posts.
+- `SCOPE-Comments-Dataset.csv` - File containing all annotations for comments of level 3 posts.
 
 ## Citation
 
