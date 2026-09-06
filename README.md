@@ -81,7 +81,8 @@ Contains fine-grained stigma labels along with associated comment-level annotati
 
 ## Repository Contents
 
-- `Camera Ready Submission  - Dataset.csv` — Single file containing all annotation levels (Level 1, Level 2, and Level 3 data)
+- `SCOPE-Dataset.csv` — File containing all annotation levels (Level 1, Level 2, and Level 3 data) for posts
+- `SCOPE-Comments-Dataset.csv` - File containing all annotations for comments of level 3 posts
 
 ## Citation
 
